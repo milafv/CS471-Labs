@@ -1,11 +1,13 @@
 # CS471 - Lab 1: The Internet Protocols
 
-This repository contains the deliverables for Lab 1 (Wireshark - HTTP, TCP, UDP analysis).
+This repository contains the deliverables for Lab 1 
 
 ## Contents
 
-- `screenshots/http-request-response.png` – HTTP GET request and 200 OK response, showing method, URL, and status code
-- `screenshots/tcp-handshake.png` – TCP three-way handshake (SYN, SYN-ACK, ACK) with sequence/acknowledgment numbers
-- `screenshots/tcp-data-transfer.png` – TCP data packet exchanged after handshake, with sequence/acknowledgment numbers
+- `screenshots/http-request-response.jpg` – HTTP GET request and 200 OK response, showing method, URL, and status code
+- `screenshots/tcp-handshake-1-syn.jpg` – TCP handshake: SYN packet (client → server)
+- `screenshots/tcp-handshake-2-synack.jpg` – TCP handshake: SYN-ACK packet (server → client)
+- `screenshots/tcp-handshake-3-ack.jpg` – TCP handshake: ACK packet (client → server, handshake complete)
+- `screenshots/tcp-data-transfer.jpg` – TCP data packet with sequence/acknowledgment numbers after handshake
 ## Student
 Milaf – Qassim University
