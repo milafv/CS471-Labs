@@ -9,5 +9,6 @@ This repository contains the deliverables for Lab 1
 - `screenshots/tcp-handshake-2-synack.jpg` – TCP handshake: SYN-ACK packet (server → client)
 - `screenshots/tcp-handshake-3-ack.jpg` – TCP handshake: ACK packet (client → server, handshake complete)
 - `screenshots/tcp-data-transfer.jpg` – TCP data packet with sequence/acknowledgment numbers after handshake
+- `screenshots/udp-packet.jpg` – UDP DNS query packet showing source/destination ports and length
 ## Student
 Milaf – Qassim University
